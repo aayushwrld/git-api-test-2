@@ -30,11 +30,6 @@
         </insert>
     </changeSet>
 
-    <changeSet id="4" author="johnDoe">
-        <comment>This change set will be updated</comment>
-        <change>
-            <value>Some initial content</value>
-        </change>
-    </changeSet>
+    <changeSet id="4" author="johnDoe">This is a test data, this should appear instead of code.</changeSet>
 
 </databaseChangeLog>
